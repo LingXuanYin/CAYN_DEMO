@@ -1,0 +1,6 @@
+[submodule "TinyRecursiveModels"]
+	path = TinyRecursiveModels
+	url = https://github.com/LingXuanYin/TinyRecursiveModels
+[submodule "llm_related"]
+	path = llm_related
+	url = https://github.com/LingXuanYin/llm_related
