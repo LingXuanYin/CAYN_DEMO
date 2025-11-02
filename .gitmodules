@@ -4,3 +4,6 @@
 [submodule "llm_related"]
 	path = llm_related
 	url = https://github.com/LingXuanYin/llm_related
+[submodule "dgl"]
+	path = dgl
+	url = https://github.com/dmlc/dgl.git
